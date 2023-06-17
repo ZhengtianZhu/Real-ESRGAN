@@ -1,5 +1,5 @@
 # Real-ESRGAN
-#zhengtian zhu:
+## Zhengtian zhu:
 my finetune model is here: finetune model
 https://www.aliyundrive.com/s/qd3U97AFUvy
 Open "AliCloud" App
