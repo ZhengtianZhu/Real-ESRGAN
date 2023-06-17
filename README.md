@@ -2,7 +2,7 @@
 ## Zhengtian zhu:
 CR module: 
 
-using the script in
+using the script in the folder **CR_module-matlab_process**
 ![result of CR module](https://github.com/ZhengtianZhu/Real-ESRGAN/assets/24854133/fa34b026-bb0f-4d58-960f-dba710b3f334)
 
 my finetune model is here: finetune model
