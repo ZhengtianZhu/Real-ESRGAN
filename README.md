@@ -1,11 +1,12 @@
 # Real-ESRGAN
 ## Zhengtian zhu:
-CR module: 
+My work
+1.CR module: 
 
 using the script in the folder **CR_module-matlab_process**
 ![result of CR module](https://github.com/ZhengtianZhu/Real-ESRGAN/assets/24854133/fa34b026-bb0f-4d58-960f-dba710b3f334)
 
-my finetune model is here: finetune model
+2.my finetune model is here: finetune model
 https://www.aliyundrive.com/s/qd3U97AFUvy
 Open "AliCloud" App
 
